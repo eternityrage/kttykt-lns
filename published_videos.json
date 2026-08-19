@@ -654,5 +654,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-ba007c4c-710f-499e-85e1-74d6ff31ff77_subtitled.mp4",
+        "metadata": {
+            "title": "Jane Seymour: The Style, The Talent, The Spark That Keeps Inspiring Us \u2728",
+            "description": "Tonight\u2019s video is pure Jane Seymour magic\u2014those electric red carpet moments where elegance feels effortless, the sharp, heartfelt interviews that show her real spirit, and the acting scenes that remind us why she\u2019s a true Hollywood icon. From the timeless allure of her Bond-era glow to the grace and warmth she brought to dr. quinn, medicine woman, Jane\u2019s journey is more than screen glamour\u2014it\u2019s a lesson in confidence, resilience, and staying true to yourself through every chapter. I swear, watching her reminds me that ambition doesn\u2019t just look good on camera\u2014it feels powerful in your everyday life. Like if you love Jane Seymour! Comment your favorite Jane Seymour movie or role! Share this with another Jane Seymour fan! And follow Jane Seymour Daily for the best Jane Seymour content\u2014because we\u2019re celebrating every detail, every era, and every unforgettable moment together. #janeseymour #hollywood #liveandletdie #bondgirl #drquinn #somewhereintime #classiccinema #fashion #celebrity #redcarpet #janeseymourfan #actress #emmywinner #elegance #timeless",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
