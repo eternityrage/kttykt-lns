@@ -686,5 +686,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-eee821f1-c507-476b-92b1-bc1cd2d1f8f8_subtitled.mp4",
+        "metadata": {
+            "title": "Jane Seymour Ignites the Screen: Red Carpet Radiance, Iconic Roles & Unstoppable Hollywood Magic!",
+            "description": "Get ready to celebrate one of the most captivating icons ever to grace the screen\u2014Jane Seymour! In this short video, we\u2019re bringing you the best of Jane Seymour Daily: dazzling red carpet looks, unforgettable interview moments, and that undeniable star power that makes every performance feel timeless. From the elegance she brings to every appearance to the talent that made her a true Hollywood force, Jane proves again and again why fans (including us!) can\u2019t get enough. Whether you\u2019re reminiscing about her iconic Bond-era presence, reliving the charm of \u201cLive and Let Die,\u201d or cheering on her unforgettable TV legacy like \u201cDr. Quinn,\u201d this is a full-on celebration of style, grace, and pure acting magic. Like if you love Jane Seymour! Comment your favorite Jane Seymour movie or role! Share this with another Jane Seymour fan! Follow Jane Seymour Daily for the best Jane Seymour content! #janeseymour #hollywood #liveandletdie #bondgirl #drquinn #somewhereintime #classiccinema #fashion #celebrity #redcarpet #janeseymourfan #actress #emmywinner #elegance #timeless",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
