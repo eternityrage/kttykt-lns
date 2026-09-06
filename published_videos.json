@@ -1486,5 +1486,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b65ae7de-e8e1-43e9-8244-3c760df6b518_subtitled.mp4",
+        "metadata": {
+            "title": "Jane Seymour Glamour Spotlight: Red Carpet Radiance, Timeless Style & Iconic Moments",
+            "description": "Get ready to be dazzled\u2014because this video is a full-on celebration of Jane Seymour at her most glamorous, from jaw-dropping red carpet looks to captivating interview moments that always reveal her effortless charisma. You\u2019ll spot why she\u2019s been a style icon for decades: that elegant, classic silhouette, the perfectly chosen colors, and the kind of poise that makes every appearance feel like a movie premiere. Whether she\u2019s lighting up the screen with unforgettable performances or stepping out in fashion that screams \u201ctimeless elegance,\u201d Jane Seymour never fails to make Hollywood look stunning. Like if you love Jane Seymour! Comment your favorite Jane Seymour movie or role! Share this with another Jane Seymour fan who appreciates red carpet magic and old-school Hollywood charm. And for the best Jane Seymour moments\u2014looks, interviews, behind-the-scenes, and everything that makes her an icon\u2014Follow Jane Seymour Daily for more glamour, always. #janeseymour #hollywood #liveandletdie #bondgirl #drquinn #somewhereintime #classiccinema #fashion #celebrity #redcarpet #janeseymourfan #actress #emmywinner #elegance #timeless",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
